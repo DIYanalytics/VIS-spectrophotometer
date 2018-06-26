@@ -1,0 +1,7 @@
+vite = 6,2mm
+
+laser settings
+
+power 100
+speed  25
+freq 2500
